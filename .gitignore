@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+cryptocurrency.py
+nodes.json
+transaction.json
 
 # Distribution / packaging
 .Python
